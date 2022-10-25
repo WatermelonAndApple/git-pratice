@@ -1,4 +1,4 @@
-hello git !
+hello git !  master
 hello git !
 hello git !
 hello world!
@@ -6,4 +6,5 @@ hello world!
 hello world!
 hello world!
 first update hello.txt in fix-hot
+
 this is fix-hot branch
